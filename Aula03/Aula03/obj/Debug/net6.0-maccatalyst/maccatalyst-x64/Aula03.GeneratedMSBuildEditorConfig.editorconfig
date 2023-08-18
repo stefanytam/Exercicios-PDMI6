@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aula03
+build_property.ProjectDir = C:\Users\fabri\source\repos\Aula03\Aula03\
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/AbsoluteLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.AbsoluteLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = AbsoluteLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = AbsoluteLayout.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/FlexLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.FlexLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = FlexLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = FlexLayout.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/GridLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.GridLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = GridLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = GridLayout.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/fabri/source/repos/Aula03/Aula03/stackLayout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula03.stackLayout.xaml
+build_metadata.AdditionalFiles.TargetPath = stackLayout.xaml
+build_metadata.AdditionalFiles.RelativePath = stackLayout.xaml
